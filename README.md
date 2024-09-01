@@ -20,15 +20,8 @@ Even with a whole calibration system built in, the drinks sometimes came out str
 But hey, who doesn’t love a little surprise in their cocktail? Cheers to that!
 
 ----------------------------------
-Features:
 
-- Controlled by an ARDUINO MEGA.
-- Operated via a TFT LCD DISPLAY, waterproof colored LED buttons, and a rotary encoder.
-- Internal power converters ensure everything is powered by the 12V power supply.
-- COOL LED LIGHTING illuminates the interior pumps, visible through the plexiglass. These are controlled by a separate ARDUINO NANO and LED driver, managing 20+ built-in presets that can be selected as desired.
-- Hidden push-button to toggle between setup and running modes. In setup mode, an extra menu allows the user to add ingreedients and calibrate pumps.
-- SD card for storing recipes and ingredients. Easily removable for adding more at any time. The custom-made C# program "DrinkManager" makes it simple to add new recipes to the SD card.
-- Fully 3D-printable on any printer, with all parts assembled using bolts and nuts.
+Features:
 
 - Supports up to 8 tubes and ingredients at a time. Ingredients can be selected from the menu and assigned to the pumps. Simply place the tube into the drink.
 - Calibration menu to fine-tune the pumps based on the liquids’ buoyancies. Weight is set automatically during calibration: start-stop when 1 deciliter is poured.
@@ -39,3 +32,13 @@ Features:
 - Cupholder included.
 - Lids secured by magnets and custom-made knobs on the backplate ensure smooth installation. Pumps can be easily disassembled to insert or remove the tubes for cleaning and setup.
 - Progress bar while the machine is mixing the drink.
+
+Technical Features:
+
+- Controlled by an ARDUINO MEGA.
+- Operated via a TFT LCD DISPLAY, waterproof colored LED buttons, and a rotary encoder.
+- Internal power converters ensure everything is powered by the 12V power supply.
+- COOL LED LIGHTING illuminates the interior pumps, visible through the plexiglass. These are controlled by a separate ARDUINO NANO and LED driver, managing 20+ built-in presets that can be selected as desired.
+- Hidden push-button to toggle between setup and running modes. In setup mode, an extra menu allows the user to add ingreedients and calibrate pumps.
+- SD card for storing recipes and ingredients. Easily removable for adding more at any time. The custom-made C# program "DrinkManager" makes it simple to add new recipes to the SD card.
+- Fully 3D-printable on any printer, with all parts assembled using bolts and nuts.
