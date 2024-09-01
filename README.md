@@ -30,12 +30,12 @@ Features:
 - SD card for storing recipes and ingredients. Easily removable for adding more at any time. The custom-made C# program "DrinkManager" makes it simple to add new recipes to the SD card.
 - Fully 3D-printable on any printer, with all parts assembled using bolts and nuts.
 
-~ Supports up to 8 tubes and ingredients at a time. Ingredients can be selected from the menu and assigned to the pumps. Simply place the tube into the drink.
-~ Calibration menu to fine-tune the pumps based on the liquids’ buoyancies. Weight is set automatically during calibration: start-stop when 1 deciliter is poured.
-~ Adjustable height for the tube’s output, accommodating any size glass or cup without splashing.
-~ Tray underneath to catch spilled liquid.
-~ After assigning ingredients to the pumps, the machine will automatically scan all recipes on the SD card to see which drinks can be mixed with the available ingredients.
-~ Ingredients in recipes are marked as either soft (soda, etc.) or hard (alcohol). This allows users to adjust the strength of their drink, with the machine automatically scaling the soft/hard ratio to achieve the desired strength.
-~ Cupholder included.
-~ Lids secured by magnets and custom-made knobs on the backplate ensure smooth installation. Pumps can be easily disassembled to insert or remove the tubes for cleaning and setup.
-~ Progress bar while the machine is mixing the drink.
+- Supports up to 8 tubes and ingredients at a time. Ingredients can be selected from the menu and assigned to the pumps. Simply place the tube into the drink.
+- Calibration menu to fine-tune the pumps based on the liquids’ buoyancies. Weight is set automatically during calibration: start-stop when 1 deciliter is poured.
+- Adjustable height for the tube’s output, accommodating any size glass or cup without splashing.
+- Tray underneath to catch spilled liquid.
+- After assigning ingredients to the pumps, the machine will automatically scan all recipes on the SD card to see which drinks can be mixed with the available ingredients.
+- Ingredients in recipes are marked as either soft (soda, etc.) or hard (alcohol). This allows users to adjust the strength of their drink, with the machine automatically scaling the soft/hard ratio to achieve the desired strength.
+- Cupholder included.
+- Lids secured by magnets and custom-made knobs on the backplate ensure smooth installation. Pumps can be easily disassembled to insert or remove the tubes for cleaning and setup.
+- Progress bar while the machine is mixing the drink.
