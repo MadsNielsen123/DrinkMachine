@@ -24,7 +24,7 @@ But hey, who doesn’t love a little surprise in their cocktail? Cheers to that!
 Features:
 
 - Supports up to 8 tubes and ingredients at a time. Ingredients can be selected from the menu and assigned to the pumps. Simply place the tube into the drink.
-- Calibration menu to fine-tune the pumps based on the liquids’ buoyancies. Weight is set automatically during calibration: start-stop when 1 deciliter is poured.
+- Calibration menu to fine-tune the pumps based on the liquids’ Viscosity. Weight is set automatically during calibration: start-stop when 1 deciliter is poured.
 - Adjustable height for the tube’s output, accommodating any size glass or cup without splashing.
 - Tray underneath to catch spilled liquid.
 - After assigning ingredients to the pumps, the machine will automatically scan all recipes on the SD card to see which drinks can be mixed with the available ingredients.
